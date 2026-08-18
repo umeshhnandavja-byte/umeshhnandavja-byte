@@ -1,6 +1,6 @@
 # Hi there, I'm Umeshh Nanda 👋
 
-A self-taught developer and student passionate about building practical, high-utility web applications. I turn raw ideas into clean, functional tools that solve real problems.
+A self-taught developer and student passionate about building practical, high-utility web applications. I turn raw ideas into clean, functional tools that solve real problems and i am a huge fan of open-source.
 
 ### 🛠️ Tech Stack & Skills
 - **Frontend:** HTML5, CSS3, JavaScript
