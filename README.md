@@ -3,7 +3,9 @@
 A self-taught developer and student passionate about building practical, high-utility web applications. I turn raw ideas into clean, functional tools that solve real problems and i am a huge fan of open-source.
 
 ### 🛠️ Tech Stack & Skills
-- **Frontend:** HTML5, CSS3, JavaScript
+- **Languages:** JavaScript, PHP, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Frontend:** HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
 - **Backend & DB:** PHP, MySQL
 - **DevOps & Tools:** Git, GitHub, SSH, Linux
 
